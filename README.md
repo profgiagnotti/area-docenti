@@ -10,12 +10,12 @@ Benvenuto nello spazio dedicato all'Area Docenti, una raccolta completa di guide
 
 | Repository | Descrizione | Area | Guida |
 |---|---|---|
-| [kit GitHub Actions](./kit-github-actions.zip) | workflow per PyTest, JUnit (Maven e Gradle) e Mocha, due mini-esercizi di prova |  GitHub | [Guida a GitHub Actions per i docenti: automatizzare i test dei compiti](https://profgiagnotti.altervista.org/guida-a-github-actions-per-i-docenti-automatizzare-i-test-dei-compiti/)
-| [kit codespaces](./kit-codespaces.zip) | devcontainer.json per Python, Node, Java, C/C++ e PHP+MySQL, la scheda per lo studente e il testo da inviare al referente informatico | GitHub |
-| [kit Docker](./kit-docker.zip) | quattro ambienti pronti (Python con PyTest, PHP con MySQL e phpMyAdmin, PostgreSQL con Adminer, Node con Mocha) | Docker |
-| [kit Programmi Cloud](./kit-programmi-cloud.zip) | checklist di idoneità, lettera alla direzione, scheda per la candidatura AWS, piano del corso, regolamento dei laboratori e registro di crediti e voucher | AWS |
-| [kit AI Etica](./kit-IA-etica.zip) | prompt per studenti e docenti, patto d’aula con i livelli A/B/C, dichiarazione d’uso dell’IA, rubrica, un esercizio di bug hunt con test e otto scenari di guasto per Packet Tracer | AI |
-| [kit GitHub Projects](./kit-github-projects.zip) | modelli di issue e di pull request, un backlog di esempio da 20 storie, script per creare il Project e importare gli issue, un report del contributo per studente e per sprint, e i documenti per team e docente | GitHub |
+| [kit GitHub Actions](./kit-github-actions.zip) | workflow per PyTest, JUnit (Maven e Gradle) e Mocha, due mini-esercizi di prova |  GitHub | [Guida a GitHub Actions](https://profgiagnotti.altervista.org/guida-a-github-actions-per-i-docenti-automatizzare-i-test-dei-compiti/) |
+| [kit codespaces](./kit-codespaces.zip) | devcontainer.json per Python, Node, Java, C/C++ e PHP+MySQL, la scheda per lo studente e il testo da inviare al referente informatico | GitHub |[Guida a GitHub Codespaces](https://profgiagnotti.altervista.org/guida-a-github-codespaces-per-la-scuola/) |
+| [kit Docker](./kit-docker.zip) | quattro ambienti pronti (Python con PyTest, PHP con MySQL e phpMyAdmin, PostgreSQL con Adminer, Node con Mocha) | Docker | [Guida a Docker](https://profgiagnotti.altervista.org/guida-a-docker-per-i-docenti-ambienti-di-test-isolati-e-uniformi-2/) |
+| [kit Programmi Cloud](./kit-programmi-cloud.zip) | checklist di idoneità, lettera alla direzione, scheda per la candidatura AWS, piano del corso, regolamento dei laboratori e registro di crediti e voucher | AWS | [Guida a Programmi Cloud](https://profgiagnotti.altervista.org/guida-ai-programmi-accademici-cloud-per-gli-its-microsoft-learn-for-educators-e-aws-academy/) |
+| [kit AI Etica](./kit-IA-etica.zip) | prompt per studenti e docenti, patto d’aula con i livelli A/B/C, dichiarazione d’uso dell’IA, rubrica, un esercizio di bug hunt con test e otto scenari di guasto per Packet Tracer | AI | [Guida AI Etica](https://profgiagnotti.altervista.org/guida-alluso-etico-di-github-copilot-e-chatgpt-a-scuola-dallia-vietata-allia-per-la-didattica-attiva/) |
+| [kit GitHub Projects](./kit-github-projects.zip) | modelli di issue e di pull request, un backlog di esempio da 20 storie, script per creare il Project e importare gli issue, un report del contributo per studente e per sprint, e i documenti per team e docente | GitHub | [Guida a GitHub Projects](https://profgiagnotti.altervista.org/guida-a-github-projects-per-i-docenti-gestire-progetti-di-team-con-scrum-e-monitorare-il-contributo-di-ogni-studente/) |
 
 
 ---
