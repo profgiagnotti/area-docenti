@@ -9,7 +9,7 @@ Benvenuto nello spazio dedicato all'Area Docenti, una raccolta completa di guide
 ## 📦 Repository in evidenza
 
 | Repository | Descrizione | Area | Guida |
-|---|---|---|
+|---|---|---|---|
 | [kit GitHub Actions](./kit-github-actions.zip) | workflow per PyTest, JUnit (Maven e Gradle) e Mocha, due mini-esercizi di prova |  GitHub | [Guida a GitHub Actions](https://profgiagnotti.altervista.org/guida-a-github-actions-per-i-docenti-automatizzare-i-test-dei-compiti/) |
 | [kit codespaces](./kit-codespaces.zip) | devcontainer.json per Python, Node, Java, C/C++ e PHP+MySQL, la scheda per lo studente e il testo da inviare al referente informatico | GitHub |[Guida a GitHub Codespaces](https://profgiagnotti.altervista.org/guida-a-github-codespaces-per-la-scuola/) |
 | [kit Docker](./kit-docker.zip) | quattro ambienti pronti (Python con PyTest, PHP con MySQL e phpMyAdmin, PostgreSQL con Adminer, Node con Mocha) | Docker | [Guida a Docker](https://profgiagnotti.altervista.org/guida-a-docker-per-i-docenti-ambienti-di-test-isolati-e-uniformi-2/) |
