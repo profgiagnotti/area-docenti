@@ -30,9 +30,10 @@ Benvenuto nello spazio dedicato all'Area Docenti, una raccolta completa di guide
 
 ## 🔗 Seguimi
 
-- 🌐 **Sito web:** [profgiagnotti.altervista.org](https://profgiagnotti.altervista.org)
-- ▶️ **YouTube:** [Prof. Giagnotti](https://youtube.com/@profgiagnotti)
-- 💼 **LinkedIn:** [linkedin.com/in/profgiagnotti](https://www.linkedin.com/in/mariogiagnotti/)
+- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.altervista.org)
+- ▶️ **YouTube:** [Youtube](https://youtube.com/@profgiagnotti)
+- 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/mariogiagnotti/)
+- ⓕ **Facebook** [Facebook](https://www.facebook.com/profgiagnotti.it)
 
 ---
 
